@@ -1,0 +1,14 @@
+1) systeminfo :- All system information
+2) vol :- Provide drive info
+3) ver :- window system version
+4) date :- Provide current date
+5) time :- Current time
+6) dir :- All directory information
+7) mkdir samfolder :- Make new folder
+8) type nul > file.txt :- Make new file 
+9) ren file.txt sam.txt :- Rename file
+10) copy file.txt sam.txt:- copy from one file to another file.
+11) del sam.txt :- Delete sam file
+12) move  main.txt foldername :- Move file
+13) type sam.txt :- Show content of file
+14) rmdir :- Delete folder
